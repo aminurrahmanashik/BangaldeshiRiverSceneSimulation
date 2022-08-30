@@ -4,7 +4,7 @@
 ### Working Materials    
 ● Moderate Configured PC (Windows 10.0)  
 ● C compiler (code-blocks)  
-● Glut accommodated setup  
+● Glut accommodated setup (OpenGL)
 ### Description
 We created a River scenario of a typical Bangladeshi village using OpenGL. Here, we’ve
 implemented two village houses, five trees, a background hill, a sun, a moon, four stars, a river
